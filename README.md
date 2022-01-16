@@ -1,7 +1,7 @@
 ### LaBook
 
 <h4 align="center"> 
-	🚧  Node.Js 🚀 Em construção...  🚧
+Node.Js
 </h4>
 
 Projeto de *back-end* uma plataforma de uma rede social, realizado como forma de estudo e prática. 
